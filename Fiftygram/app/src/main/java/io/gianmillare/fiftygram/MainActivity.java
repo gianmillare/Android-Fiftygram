@@ -15,13 +15,15 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.Transformation;
 import com.bumptech.glide.request.RequestOptions;
 
 import java.io.FileDescriptor;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import jp.wasabeef.glide.transformations.gpu.SepiaFilterTransformation;
+import jp.wasabeef.glide.transformations.gpu.SketchFilterTransformation;
+import jp.wasabeef.glide.transformations.gpu.ToonFilterTransformation;
 
 public class MainActivity extends AppCompatActivity {
 //    Reference the image view created in activity_main.xml
@@ -47,10 +49,26 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, 1);
     }
 
-//    Create the method that applies a Sepia Filter on the image
+////    Create the method that applies a Sepia Filter on the image
+//    public void applySepia(View view) {
+////        The below code is found from the documentation of "glide transformations github"
+//        Glide.with(this).load(image).apply(RequestOptions.bitmapTransform(new SepiaFilterTransformation())).into(imageView);
+//    }
+
+    public void apply(Transformation<Bitmap> filter) {
+        Glide.with(this).load(image).apply(RequestOptions.bitmapTransform(filter)).into(imageView);
+    }
+
     public void applySepia(View view) {
-//        The below code is found from the documentation of "glide transformations github"
-        Glide.with(this).load(image).apply(RequestOptions.bitmapTransform(new SepiaFilterTransformation())).into(imageView);
+        apply(new SepiaFilterTransformation());
+    }
+
+    public void applyToon(View view) {
+        apply(new ToonFilterTransformation());
+    }
+
+    public void applySketch(View view) {
+        apply(new SketchFilterTransformation());
     }
 
 //    Create a method that returns a new activity after the above method
