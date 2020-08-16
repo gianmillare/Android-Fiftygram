@@ -9,11 +9,15 @@ Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Gl
 
 ----------------------------------------------------------------------------------------------------------------
 
+Preview: This is an image of the homepage. Users will be able to choose a photo that they upload via Android's built-in libraries.
+
 <div align="center"> 
 <img src="images/1.png">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------
+
+Preview: Once a User uploads an image into the library, they will be able to select an image from their uploads.
 
 <div align="center"> 
 <img src="images/2.png">
@@ -21,11 +25,15 @@ Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Gl
 
 ----------------------------------------------------------------------------------------------------------------
 
+Preview: After selecting an image, the screen changes to have the image as the focus with a list of filter options.
+
 <div align="center"> 
 <img src="images/3.png">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------
+
+Preview: Sepia filter applies to a selected image.
 
 <div align="center"> 
 <img src="images/4.png">
@@ -33,11 +41,15 @@ Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Gl
 
 ----------------------------------------------------------------------------------------------------------------
 
+Preview: Toon filter applies to a selected image.
+
 <div align="center"> 
 <img src="images/5.png">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------
+
+Preview: Sketch filter applies to a selected image.
 
 <div align="center"> 
 <img src="images/6.png">
