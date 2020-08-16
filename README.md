@@ -10,6 +10,12 @@ Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Gl
 ----------------------------------------------------------------------------------------------------------------
 
 <div align="center"> 
+<img src="images/1.png">
+</div>
+
+----------------------------------------------------------------------------------------------------------------
+
+<div align="center"> 
 <img src="images/2.png">
 </div>
 
