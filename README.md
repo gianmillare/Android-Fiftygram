@@ -9,7 +9,7 @@ Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Gl
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: This is an image of the homepage. Users will be able to choose a photo that they upload via Android's built-in libraries.
+Preview 1: This is an image of the homepage. Users will be able to choose a photo that they upload via Android's built-in libraries.
 
 <div align="center"> 
 <img src="images/1.png">
@@ -17,7 +17,7 @@ Preview: This is an image of the homepage. Users will be able to choose a photo 
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: Once a User uploads an image into the library, they will be able to select an image from their uploads.
+Preview 2: Once a User uploads an image into the library, they will be able to select an image from their uploads.
 
 <div align="center"> 
 <img src="images/2.png">
@@ -25,7 +25,7 @@ Preview: Once a User uploads an image into the library, they will be able to sel
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: After selecting an image, the screen changes to have the image as the focus with a list of filter options.
+Preview 3: After selecting an image, the screen changes to have the image as the focus with a list of filter options.
 
 <div align="center"> 
 <img src="images/3.png">
@@ -33,7 +33,7 @@ Preview: After selecting an image, the screen changes to have the image as the f
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: Sepia filter applies to a selected image.
+Preview 4: Sepia filter applies to a selected image.
 
 <div align="center"> 
 <img src="images/4.png">
@@ -41,7 +41,7 @@ Preview: Sepia filter applies to a selected image.
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: Toon filter applies to a selected image.
+Preview 5: Toon filter applies to a selected image.
 
 <div align="center"> 
 <img src="images/5.png">
@@ -49,7 +49,7 @@ Preview: Toon filter applies to a selected image.
 
 ----------------------------------------------------------------------------------------------------------------
 
-Preview: Sketch filter applies to a selected image.
+Preview 6: Sketch filter applies to a selected image.
 
 <div align="center"> 
 <img src="images/6.png">
