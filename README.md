@@ -7,6 +7,8 @@ This was my second android app and my second attempt at coding in the Java Progr
 
 Skills used: Java, Android Studio, Mobile app design (UX/UI Design), credit: [Glide Transformations by wasabeef](https://github.com/wasabeef/glide-transformations)
 
+Gian Millare's Repository for CS50: Introduction to Computer Science by HarvardX ---> [Visit Repository](https://github.com/gianmillare/CS50-Introduction-to-Computer-Science)
+
 ----------------------------------------------------------------------------------------------------------------
 
 Preview 1: This is an image of the homepage. Users will be able to choose a photo that they upload via Android's built-in libraries.
